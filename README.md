@@ -1,6 +1,6 @@
 # Hack4Space2021
 ## In this project, we aim to predict locations on Mars that quickly disperse air particles, as would be necessary in the case of terraforming Mars into a habitable planet.
-### Team: Mourad Askar, Zhenyu Zhou, Jacob Siepker
+#### Team: Mourad Askar, Zhenyu Zhou, Jacob Siepker
 #### Date: 7_May_2021 - 10_May_2021
 
 ##### This project was completed for the DePaul_University-NASA-IBM Hack4Space 2021 Hackathon event.
