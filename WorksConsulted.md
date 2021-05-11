@@ -21,3 +21,5 @@
 #### https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html
   Mars quick reference data.
   
+#### https://www.wur.nl/en/newsarticle/The-ideal-settlement-site-on-Mars-hotspots-if-you-asked-a-crop.htm
+  Research on areas with suitable conditions for human life on Mars.
